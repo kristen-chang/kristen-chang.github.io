@@ -137,3 +137,13 @@ section h2 {
     max-width: 500px;  /* Adjust as needed */
 }
 
+.about-text {
+    max-width: 400px; /* you can set the maximum width as per your need */
+    margin: 0 auto; /* this will center the div */
+    text-align: justify;
+}
+
+.hero {
+    max-width: 1000px;
+    border-bottom: 1px solid #333;
+}
