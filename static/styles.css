@@ -2,7 +2,7 @@
 body {
     font-family: 'Georgia', serif;
     color: #333;
-    background-color: #fdfcf5;
+    background-color: #008080;
 
     scroll-snap-type: y proximity;
     overflow-y: scroll;
@@ -146,4 +146,11 @@ section h2 {
 .hero {
     max-width: 1000px;
     border-bottom: 1px solid #333;
+}
+
+.education-section {
+    font-size: 24px;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
 }
